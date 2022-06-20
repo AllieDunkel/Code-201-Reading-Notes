@@ -1,5 +1,7 @@
 # Reading Notes for 201
 
+This webpage is going to consist of my reading notes and projects for the **Code 201** class. 
+
 [Reading 01](Reading01.md)
 
 [Reading 02](Reading02.md)
@@ -29,6 +31,3 @@
 [Reading 14](Reading14.md)
 
 [Reading 15](Reading15.md)
-
-
-[Things I Want to know More about](Thingsiwanttoknowmoreabout.md)
